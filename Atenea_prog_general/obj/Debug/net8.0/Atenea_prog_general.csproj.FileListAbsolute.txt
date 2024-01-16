@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\bin\Debug\net8.0\Atenea_prog_general.exe
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\bin\Debug\net8.0\Atenea_prog_general.deps.json
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\bin\Debug\net8.0\Atenea_prog_general.runtimeconfig.json
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\bin\Debug\net8.0\Atenea_prog_general.dll
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\bin\Debug\net8.0\Atenea_prog_general.pdb
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.dll
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\refint\Atenea_prog_general.dll
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.pdb
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\Atenea_prog_general.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\Atenea_prog_general\Atenea_prog_general\obj\Debug\net8.0\ref\Atenea_prog_general.dll

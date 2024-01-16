@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atenea_prog_general/1.0.0": {
+        "runtime": {
+          "Atenea_prog_general.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atenea_prog_general/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
